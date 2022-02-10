@@ -1,0 +1,6 @@
+parameters:
+	twitterSettings:
+		consumerKey: ''
+		consumerSecret: ''
+		oauthAccessToken: ''
+		oauthAccessTokenSecret: ''
